@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Kood.io
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
   - template: navigation-header-w-button
@@ -8,29 +8,28 @@ page_sections:
     logo: "/uploads/2018/06/21/forestry-full.svg"
     navigation:
       - link: "/"
-        link_text: Ubuild
-      - link: "#swap"
-        link_text: Swap
-      - link: "#customize"
-        link_text: Customize
-      - link: "#responsive"
-        link_text: Responsive
+        link_text: Power Tools
+      - link: "#tools"
+        link_text: Tools
+      - link: "#graphs"
+        link_text: Graphs
+      - link: "#templates"
+        link_text: Templates
       - link: "#blocks"
         link_text: Blocks
     cta:
-      url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-      button_text: Import
+      url: https://forms.gle/6ovGzQJJJW1ExHyK7
+      button_text: GET EARLY ACCESS
   - template: hero-banner-w-image
     block: hero-2
     slug: features
-    headline: uBuild <br><strong>design blocks</strong>
+    headline: Koodio <br><strong>Power Tools</strong>
     content:
-      The tool that allows you to build beautiful sites<br>all inside Forestry's
-      content manager.
+      The most advanced tool for creating professional and beautiful presentations in minutes.
     cta:
       enabled: true
-      url: https://github.com/forestryio/ubuild-jekyll
-      button_text: "See on GitHub "
+      url: https://forms.gle/6ovGzQJJJW1ExHyK7
+      button_text: "GET EARLY ACCESS"
     image:
       image: "/uploads/2018/06/21/product-shot-1.png"
       alt_text: Product Shot
@@ -38,7 +37,7 @@ page_sections:
   - template: content-feature
     block: feature-1
     media_alignment: Left
-    slug: swap
+    slug: tools
     headline:
       <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
       class="light">the Blocks to create sites quickly</span>
@@ -51,7 +50,7 @@ page_sections:
   - template: content-feature
     block: feature-1
     media_alignment: Right
-    slug: customize
+    slug: graphs
     headline:
       <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
       edits throughout your new site</span>
@@ -63,7 +62,7 @@ page_sections:
       alt_text: Customize Blocks
   - template: 1-column-text
     block: one-column-1
-    slug: responsive
+    slug: templates
     headline: 16 Fully Responsive Design Blocks
     content: |
       The Design Blocks can be used without Forestry but to harness the power
@@ -82,5 +81,5 @@ page_sections:
       article</a> and create your own Blocks.</p></li><li><p>Add and customize the available Blocks and preview them as you go along.</p></li></ol>
   - template: simple-footer
     block: footer-1
-    content: Made with ❤︎ in Canada
+    content: Made with ❤︎ in Finland
 ---
