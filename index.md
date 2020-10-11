@@ -47,33 +47,11 @@ page_sections:
     media:
       image: "/uploads/2018/06/21/powertools.png"
       alt_text: Power Tools 
-  - template: content-feature
-    block: feature-1
-    media_alignment: Right
-    slug: graphs
-    headline:
-      <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-      edits throughout your new site</span>
-    content:
-
-    media:
-      image: "/uploads/2018/06/21/templates.png"
-      alt_text: Customize Blocks
   - template: 1-column-text
     block: one-column-1
     slug: templates
     headline: +100 Ready made professional themes
     content: |
-
-  - template: full-width-media-element
-    block: media-1
-    image: "/uploads/2018/06/21/theme.png"
-    caption: All Available Blocks
-    slug: blocks
-  - template: detail-content
-    block: text-1
-    headline: Steps to Build a Site!
-    content:
 
   - template: simple-footer
     block: footer-1
