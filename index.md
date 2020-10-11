@@ -47,6 +47,18 @@ page_sections:
     media:
       image: "/uploads/2018/06/21/powertools.png"
       alt_text: Power Tools 
+  - template: content-feature
+    block: feature-1
+    media_alignment: Right
+    slug: graphs
+    headline:
+      <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
+      edits throughout your new site</span>
+    content:
+
+    media:
+      image: "/uploads/2018/06/21/templates.png"
+      alt_text: Customize Blocks
   - template: 1-column-text
     block: one-column-1
     slug: templates
