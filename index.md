@@ -15,8 +15,6 @@ page_sections:
         link_text: Graphs
       - link: "#templates"
         link_text: Templates
-      - link: "#blocks"
-        link_text: Blocks
     cta:
       url: https://forms.gle/6ovGzQJJJW1ExHyK7
       button_text: GET EARLY ACCESS
@@ -39,11 +37,10 @@ page_sections:
     media_alignment: Left
     slug: tools
     headline:
-      <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-      class="light">the Blocks to create sites quickly</span>
+      <strong>Fast &amp; Powerful<span class="light">&nbsp;</span></strong><span
+      class="light">tools make editing slide components easy and effective</span>
     content:
-      Quickly assemble and create custom sites with 16 design blocks for seven
-      different sections.
+      Quickly assemble and create beautiful presentations for any purpose with world leading tool.
     media:
       image: "/uploads/2018/06/21/powertools.png"
       alt_text: Power Tools 
@@ -52,17 +49,16 @@ page_sections:
     media_alignment: Right
     slug: graphs
     headline:
-      <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-      edits throughout your new site</span>
+      <strong>Customize Graphs</strong><span class="light">&nbsp;to directly on the slides and match them with company brand guidelines</span>
     content:
 
     media:
-      image: "/uploads/2018/06/21/templates.png"
+      image: "/uploads/2018/06/21/graphs-koodio.gif"
       alt_text: Customize Blocks
   - template: 1-column-text
     block: one-column-1
     slug: templates
-    headline: +1000 Ready made professional themes
+    headline: +100 Ready made professional themes and templates
     content: |
 
   - template: simple-footer
