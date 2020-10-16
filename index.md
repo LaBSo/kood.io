@@ -40,7 +40,7 @@ page_sections:
       <strong>Fast &amp; Powerful<span class="light">&nbsp;</span></strong><span
       class="light">tools make editing slide components easy and effective</span>
     content:
-      Quickly assemble and create beautiful presentations for any purpose with world leading tool.
+      Quickly assemble and create beautiful presentations for any purpose with the world leading tool.
     media:
       image: "/uploads/2018/06/21/powertools.png"
       alt_text: Power Tools 
