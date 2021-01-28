@@ -1,6 +1,12 @@
+---
+layout: default
+title: copyright
+permalink: /copyright/
+---
+
 # KOOD.IO COPYRIGHT POLICY
 
-Last Revised: 23.1.2021
+### Last Revised: 23.1.2021
 
 KOOD.IO respects the intellectual property rights of others and expects its users to do the same.
 
@@ -24,4 +30,4 @@ If you are a copyright owner, or are authorized to act on behalf of one, or auth
 
 1. Deliver this Notice, with all items completed, to KOOD.IO's Designated Copyright Agent:
 
-legal@kood.io
+### legal@kood.io

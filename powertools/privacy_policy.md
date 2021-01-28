@@ -1,3 +1,9 @@
+---
+layout: default
+title: privacy
+permalink: /privavy/
+---
+
 # KOOD.IO PRIVACY POLICY
 
 Last Revised: 23.1.2021

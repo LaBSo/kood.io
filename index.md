@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Kood.io
-date: 2017-11-22T23:00:00.000+00:00
+date: 2021-01-28T21:00:00.000+00:00
 page_sections:
   - template: navigation-header-w-button
     block: header-2
@@ -22,8 +22,7 @@ page_sections:
     block: hero-2
     slug: features
     headline: Koodio <br><strong>Power Tools</strong>
-    content:
-      The most advanced tool for creating professional and beautiful presentations in minutes.
+    content: The most advanced tool for creating professional and beautiful presentations in minutes.
     cta:
       enabled: true
       url: https://forms.gle/6ovGzQJJJW1ExHyK7
@@ -39,17 +38,15 @@ page_sections:
     headline:
       <strong>Fast &amp; Powerful<span class="light">&nbsp;</span></strong><span
       class="light">tools make editing slide components easy and effective</span>
-    content:
-      Quickly assemble and create beautiful presentations for any purpose with the world leading tool.
+    content: Quickly assemble and create beautiful presentations for any purpose with the world leading tool.
     media:
       image: "/uploads/2018/06/21/powertools.png"
-      alt_text: Power Tools 
+      alt_text: Power Tools
   - template: content-feature
     block: feature-1
     media_alignment: Right
     slug: graphs
-    headline:
-      <strong>Customize Graphs</strong><span class="light">&nbsp;to directly on the slides and match them with company brand guidelines</span>
+    headline: <strong>Customize Graphs</strong><span class="light">&nbsp;to directly on the slides and match them with company brand guidelines</span>
     content:
 
     media:

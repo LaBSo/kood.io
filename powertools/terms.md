@@ -1,3 +1,9 @@
+---
+layout: default
+title: terms
+permalink: /terms/
+---
+
 # KOOD.IO TERMS OF SERVICE
 
 Last Updated: 23.1.2021
@@ -18,7 +24,7 @@ If you continue to use the Service after the revised Terms go into effect, then 
 
 ## Privacy Policy
 
-For information about how we collect and use information about users of the Service, please check out our privacy policy available at **[INSERT LINK]**.
+For information about how we collect and use information about users of the Service, please check out our privacy policy available at https://kood.io/privacy .
 
 ## Third-Party Services
 
@@ -37,8 +43,6 @@ Our Service allows you and other users to post, link and otherwise make availabl
 When you post, link or otherwise make available content to the Service, you grant us the right and license to use, reproduce, modify, publicly perform, publicly display and distribute your content on or through the Service. We may format your content for display throughout the Service, but we will not edit or revise the substance of your content itself.
 
 Aside from our limited right to your content, you retain all of your rights to the content you post, link and otherwise make available on or through the Service.
-
-**[CUSTOMIZE THE FOLLOWING SECTION BASED ON YOUR DATA RETENTION PRACTICES.]**
 
 You can remove the content that you posted by deleting it. Once you delete your content, it will not appear on the Service, but copies of your deleted content may remain in our system or backups for some period of time. We will retain web server access logs for a maximum of 90 days and then delete them.
 
@@ -83,7 +87,7 @@ You agree to defend, indemnify and hold us harmless from and against any and all
 
 ## Copyright Complaints
 
-We take intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers. **[LINK TO FULL COPYRIGHT POLICY IF APPLICABLE.]**
+We take intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers. https://kood.io/copyright/
 
 ## Governing Law
 
