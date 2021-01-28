@@ -1,7 +1,7 @@
 ---
 layout: default
 title: privacy
-permalink: /privavy/
+permalink: /privacy/
 ---
 
 # KOOD.IO PRIVACY POLICY
