@@ -55,7 +55,7 @@ page_sections:
   - template: 1-column-text
     block: one-column-1
     slug: templates
-    headline: +100 Ready made professional themes and templates
+    headline: Ready made professional themes and templates
     content: |
 
   - template: simple-footer
