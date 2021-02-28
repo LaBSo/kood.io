@@ -14,7 +14,7 @@ Our privacy policy applies to information we collect when you use or access our 
 
 ### Information You Provide to Us
 
-We collect information you provide directly to us. For example, we collect information when you participate in any interactive features of our services, fill out a form, request customer support, provide any contact or identifying information or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, credit card information and other contact or identifying information you choose to provide.
+We collect only information you provide directly to us. For example, we collect information when you participate in any interactive features of our services, fill out a form, request customer support, provide any contact or identifying information or otherwise communicate with us. The types of information we may collect include your name, email address, postal address other contact or identifying information you choose to provide.
 
 ### Information We Collect Automatically When You Use the Services
 
