@@ -4,9 +4,9 @@ title: terms
 permalink: /terms/
 ---
 
-# KOOD.IO TERMS OF SERVICE
+# KOOD.IO POWERTOOL TERMS OF SERVICE
 
-Last Updated: 23.1.2021
+Last Updated: 28.2.2021
 
 These terms of service ("Terms") apply to your access and use of KOOD.IO PowerTools (the "Service"). Please read them carefully.
 
