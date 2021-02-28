@@ -24,6 +24,11 @@ When you access or use Kood.io Powertools, we automatically collect information 
 
 Kood.io Powertools do not store any identifiable data outside your Google Workspace.
 
+### Usage of Your Sensitive Scopes
+
+- **Apps Script API**: This scope is needed for fetching images of your favourite slides. We have to make external API call to Slides services to get the images needed.
+- **Google Slides API**: This scope is needed to access favourite slides and elements on the slides. Without this permission Powertools is not able to access other slides that you are not using.
+
 ### Information We Collect From Other Sources
 
 In order to provide you with access to the Service, or to provide you with better service in general, we may combine information obtained from other sources (for example, a third-party service whose application you have authorized or used to sign in) and combine that with information we collect through our services.
