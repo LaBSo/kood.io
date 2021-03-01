@@ -15,7 +15,7 @@ page_sections:
         link_text: Graphs
       - link: "#templates"
         link_text: Templates
-      - link: "/Powertoolsprivacy/"
+      - link: "https://kood.io/Powertoolsprivacy/"
         link_text: Privacy
     cta:
       url: https://forms.gle/6ovGzQJJJW1ExHyK7
