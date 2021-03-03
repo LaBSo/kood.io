@@ -20,9 +20,10 @@ We collect only information you provide directly to us. For example, we collect 
 
 When you access or use Kood.io Powertools, we automatically collect information about you, including:
 
+- **Favorite slides**: We store your favorite slides information into your Google user profile.
 - **Log Information**: We log anynomous information about your use of our services, including the type of browser you use, access times and usage of actions.
 
-Kood.io Powertools do not store any identifiable data outside your Google Workspace.
+Kood.io Powertools do not store or host any identifiable data outside your Google Workspace.
 
 ### Usage of Your Sensitive Scopes
 
